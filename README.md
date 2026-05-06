@@ -1,4 +1,4 @@
-Zbog velicine dataseta ispod su google drive linkovi za dataset i yaml datoteke:
+Ispod je google drive link za dataset:
 
 https://drive.google.com/drive/folders/1fGV83vHq2t2YblLwV3qC51ctyDMULBvG?usp=drive_link
 
